@@ -1,0 +1,24 @@
+:root {
+    --Color-letra: #f0d2c8;
+    --color-card-1: #e38826;
+    --color-card-2: #006970;
+    --color-card-3: #004241;
+    --font-size-title: 3.8rem;
+    --font-family-title: 'Big Shoulders Display', cursive;
+    --font-family-parraf:  'Lexend Deca', sans-serif;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+.Container-proyect {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
