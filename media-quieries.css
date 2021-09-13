@@ -13,6 +13,7 @@
 @media (max-width: 710px) {
     .Container-proyect .Container-cards {
         border-radius: 10px;
+        margin-bottom: 10px;
     }
     
     .Container-proyect .Container-cards:nth-child(2) {
